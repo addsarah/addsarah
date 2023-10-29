@@ -1,7 +1,7 @@
 <div align="center">
   <img height ="150" src="(https://github.com/addsarah/addsarah/blob/main/hi.gif))"> 
 </div>
-<h1 align="center">Hi there, I'm Sarah Adibah
+<h1 align="center">Hi there, I'm Sarah Adibah</h1>
 
 - 🏫 Studying at SMKN 46 Jakarta
 - 🔎 Learning **Laravel, GoLang**
