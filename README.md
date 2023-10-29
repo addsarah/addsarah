@@ -1,5 +1,5 @@
 <div align="center">
-  <img height ="150" src="(https://github.com/addsarah/addsarah/blob/main/hi.gif))"> 
+  <img height ="150" src="hi.gif"> 
 </div>
 <h1 align="center">Hi there, I'm Sarah Adibah</h1>
 
