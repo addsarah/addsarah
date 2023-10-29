@@ -1,5 +1,5 @@
 <div align="center">
-  <img height ="150" src="https://tenor.com/view/hi-gif-14667427173248443855"> 
+  <img height ="150" src="(https://github.com/addsarah/addsarah/assets/116699790/fa7cf567-a88a-4e58-ab5d-d35305c17e4c)"> 
 </div>
 <h1 align="center">Hi, I'm Sarah Adibah</h1>
 <h4 align="center">You can call me Sarah</h4>
