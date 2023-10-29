@@ -1,5 +1,5 @@
 <div align="center">
-  <img height ="150" src="hi.gif"> 
+  <img height ="150" src="graphic-hi-cat.gif"> 
 </div>
 <h1 align="center">Hi there, I'm Sarah Adibah</h1>
 
