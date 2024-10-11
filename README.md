@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi there, I'm Sarah Adibah</h1>
 
-- 🏫 Studying at SMKN 46 Jakarta
+- 🏫 Graduated from SMKN 46 Jakarta majoring Software Engineer
 - 🌱 Learning **Laravel, GoLang**
 - 📫 How to reach me **sarahadibah06@gmail.com**
 
