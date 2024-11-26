@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Sarah Adibah</h1>
 
 - 🏫 Graduated from SMKN 46 Jakarta majoring Software Engineer
-- 🌱 Learning **Laravel, GoLang**
+- 🌱 Learning **Laravel, GoLang, Machine Learning**
 - 📫 How to reach me **sarahadibah06@gmail.com**
 
 
