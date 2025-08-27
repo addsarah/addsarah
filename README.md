@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://instagram.com/addsarahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spcedx" height="30" width="40" /></a>
 <a href="https://twitter.com/areatsumu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="areatsumu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sarah-adibah-b67140245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah-adibah-b67140245" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sarah-adibah-b67140245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarahadibah" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/addsarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="addsarah" height="30" width="40" /></a>
 </p>
 
