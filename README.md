@@ -5,7 +5,7 @@
 
 - 🏫 Student Applied Bachelor Game Technology at State Polytechnic of Creative Media
 - 🌱 Learning **Machine Learning, Game Dev, and Laravel**
-- 📫 How to reach me **sarahadibah06@gmail.com**
+- 📫 How to reach me **sarahadibah06@gmail.com** or **2591345081@polimedia.ac.id**
 
 <h3 align="left">Also you can reach me on:</h3>
 <p align="left">
