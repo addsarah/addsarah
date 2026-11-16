@@ -13,14 +13,13 @@
   <a href="https://stackoverflow.com/users/22849988" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
   <a href="https://kaggle.com/addsarah" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
   <a href="https://instagram.com/addsarahh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="medium.com/@blueskyez target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://medium.com/@blueskyez" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/@addsarahh" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/@sarahadibah06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
   <a href="https://www.hackerearth.com/@sarahadibah06" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- Pastikan tidak ada spasi/enter berlebih yang memecah baris markdown -->
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
@@ -44,11 +43,11 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<!-- Dibuat center agar proporsional dan tidak saling tindih -->
+<!-- Bagian Statistik -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=addsarah&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=addsarah&theme=shadow" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=addsarah&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://readme-stats-github.pages.dev/api?username=addsarah&theme=shadow" alt="GitHub Stats" />
   <br><br>
   <img src="https://leetcard.jacoblin.cool/addsarah?ext=contest" alt="Leetcode Stats" />
   <br><br>
@@ -57,12 +56,9 @@
 
 <br>
 
+<!-- Bagian Pacman Graph -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph.svg">
-  </picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph.svg?v=1">
   <br>
   <em>generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></em>
 </div>
