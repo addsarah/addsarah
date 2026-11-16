@@ -59,8 +59,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addsarah/addsarah/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/addsarah/addsarah/output/github-contribution-grid-snake.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/addsarah/addsarah/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/addsarah/addsarah/output/pacman-contribution-graph.svg">
   </picture>
+  <br>
+  <em>generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></em>
 </div>
