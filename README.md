@@ -1,7 +1,7 @@
 <div align="center">
   <img height="150" src="graphic-hi-cat.gif"> 
 </div>
-<h1 align="center">Hi there, I'm Sarah Adibah</h1>
+<h1 align="center">Hi there, I'm Sarah </h1>
 
 - 🏫 Student Applied Bachelor Game Technology at State Polytechnic of Creative Media
 - 🌱 Learning **Machine Learning, Game Dev, and Laravel**
