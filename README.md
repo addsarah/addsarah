@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Sarah Adibah</h1>
 
 - 🏫 Student Applied Bachelor Game Technology at State Polytechnic of Creative Media
-- 🌱 Learning **Machine Learning, Artificial Intelligence, Game Dev, Laravel**
+- 🌱 Learning **Machine Learning, Game Dev, and Laravel**
 - 📫 How to reach me **sarahadibah06@gmail.com**
 
 <h3 align="left">Also you can reach me on:</h3>
